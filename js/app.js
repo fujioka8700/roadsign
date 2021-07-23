@@ -5,9 +5,18 @@ $('select').change(function () {
     $('section#' + val).fadeIn();
 });
 
+let lastDisplayedElement;
 const select = document.querySelector('select');
+
 select.addEventListener('change', function () {
-    console.log(select.value);
+    let lastParentSection = document.getElementById(lastDisplayedElement);
+    if (lastParentSection != null) {
+        const removeParent = lastParentSection.getElementsByClassName('wrap')[0];
+        while (removeParent.firstChild) {
+            removeParent.removeChild(removeParent.firstChild);
+        }
+    }
+
     $.getJSON('../sign.json', (data) => {
         for (const property in data) {
             let newElement = document.createElement("div");
@@ -15,8 +24,8 @@ select.addEventListener('change', function () {
             let newContent = document.createElement("h2");
 
             if (select.value === data[property].category) {
-                const parentDiv = document.getElementById(select.value);
-                let childDiv = parentDiv.getElementsByClassName('wrap')[0];
+                const parentSection = document.getElementById(select.value);
+                let childDiv = parentSection.getElementsByClassName('wrap')[0];
 
                 newImageElement.setAttribute('src', `../images/${data[property].filename}`);
                 newContent.textContent = data[property].name;
@@ -30,4 +39,6 @@ select.addEventListener('change', function () {
             }
         }
     });
+
+    lastDisplayedElement = select.value;
 });

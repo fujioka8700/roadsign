@@ -13,5 +13,10 @@
         "filename": "rds_003.svg",
         "name": "車両進入禁止",
         "category": "red-circle"
+    },
+    {
+        "filename": "rds_023.svg",
+        "name": "時間制限駐車区間",
+        "category": "blue-circle"
     }
 ]
