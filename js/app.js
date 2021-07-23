@@ -14,7 +14,10 @@ select.addEventListener('change', function () {
             let newImageElement = document.createElement("img");
             let newContent = document.createElement("h2");
 
-            if ('red-circle' === data[property].category) {
+            if (select.value === data[property].category) {
+                const parentDiv = document.getElementById(select.value);
+                let childDiv = parentDiv.getElementsByClassName('wrap')[0];
+
                 newImageElement.setAttribute('src', `../images/${data[property].filename}`);
                 newContent.textContent = data[property].name;
 
@@ -22,7 +25,8 @@ select.addEventListener('change', function () {
                 newElement.appendChild(newContent);
 
                 newElement.setAttribute("class", "item");
-                console.log(newElement);
+
+                childDiv.appendChild(newElement);
             }
         }
     });
