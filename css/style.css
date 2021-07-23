@@ -1,0 +1,49 @@
+@charset "UTF-8";
+section {
+  display: none;
+}
+
+/* 表示スタイル（動作に無関係） */
+section {
+  border: 1px solid #ccc;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+#a01 {
+  background: #D8DBE2;
+}
+
+#a02 {
+  background: #A9BCD0;
+}
+
+#a03 {
+  background: #58A4B0;
+}
+
+.wrap {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.item {
+  padding: 30px;
+  width: 25%;
+  background-color: #fff;
+}
+
+@media not all and (min-width: 768px) {
+  .item {
+    width: 100%;
+  }
+  .item:not(:last-child) {
+    margin-bottom: 30px;
+  }
+}
+
+img {
+  width: 100%;
+}
+/*# sourceMappingURL=style.css.map */
