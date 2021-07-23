@@ -1,0 +1,17 @@
+[
+    {
+        "filename": "rds_001.svg",
+        "name": "通行止め",
+        "category": "red-circle"
+    },
+    {
+        "filename": "rds_002.svg",
+        "name": "車両通行止め",
+        "category": "red-circle"
+    },
+    {
+        "filename": "rds_003.svg",
+        "name": "車両進入禁止",
+        "category": "red-circle"
+    }
+]
