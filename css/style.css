@@ -1,28 +1,21 @@
 @charset "UTF-8";
+body {
+  font-family: "Noto Sans JP", "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "メイリオ", sans-serif;
+  background: #d3d3d3;
+}
+
 section {
   display: none;
 }
 
 /* 表示スタイル（動作に無関係） */
 section {
-  border: 1px solid #ccc;
   width: 100%;
   box-sizing: border-box;
 }
 
-#a01 {
-  background: #D8DBE2;
-}
-
-#a02 {
-  background: #A9BCD0;
-}
-
-#a03 {
-  background: #58A4B0;
-}
-
 .wrap {
+  background: #fff;
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
@@ -47,7 +40,27 @@ img {
   width: 100%;
 }
 
-h2 {
+h1 {
+  background: #00aea4;
+  color: #fff;
   text-align: center;
 }
+
+h2 {
+  text-align: center;
+  margin: .5em 0 0 0;
+}
+
+.main-content {
+  background: #fff;
+  padding: 1em;
+  border-radius: .5em;
+  box-shadow: 5px 5px 10px 3px rgba(0, 0, 100, 0.3);
+}
+
+.header {
+  padding: 0;
+}
+
+/* select要素 */
 /*# sourceMappingURL=style.css.map */
