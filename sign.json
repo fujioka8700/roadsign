@@ -108,5 +108,61 @@
         "filename": "rds_022.svg",
         "name": "駐車禁止",
         "category": "red-circle"
+    },
+    {
+        "filename": "rds_023.svg",
+        "name": "時間制限駐車区間",
+        "category": "blue-circle"
+    },
+    {
+        "filename": "rds_024.svg",
+        "name": "危険物積載車両通行止め",
+        "category": "red-circle"
+    },
+    {
+        "filename": "rds_025.svg",
+        "name": "重量制限",
+        "category": "red-circle_number"
+    },
+    {
+        "filename": "rds_026.svg",
+        "name": "高さ制限",
+        "category": "red-circle_number"
+    },
+    {
+        "filename": "rds_027.svg",
+        "name": "最大幅",
+        "category": "red-circle_number"
+    },
+    {
+        "filename": "rds_028.svg",
+        "name": "最高速度",
+        "category": "red-circle_number"
+    },
+    {
+        "filename": "rds_029.svg",
+        "name": "最低速度",
+        "category": "red-circle_number"
+    },
+
+    {
+        "filename": "rds_030.svg",
+        "name": "自動車専用",
+        "category": "blue-circle"
+    },
+    {
+        "filename": "rds_031.svg",
+        "name": "自転車専用",
+        "category": "blue-circle"
+    },
+    {
+        "filename": "rds_032.svg",
+        "name": "自転車および歩行者専用",
+        "category": "blue-circle"
+    },
+    {
+        "filename": "rds_033.svg",
+        "name": "歩行者専用",
+        "category": "blue-circle"
     }
 ]
