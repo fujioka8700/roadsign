@@ -164,5 +164,325 @@
         "filename": "rds_033.svg",
         "name": "歩行者専用",
         "category": "blue-circle"
+    },
+    {
+        "filename": "rds_034.svg",
+        "name": "一方通行",
+        "category": ""
+    },
+    {
+        "filename": "rds_035.svg",
+        "name": "車両通行区分",
+        "category": ""
+    },
+    {
+        "filename": "rds_036.svg",
+        "name": "特定の種類の車両の通行区分",
+        "category": ""
+    },
+    {
+        "filename": "rds_037.svg",
+        "name": "けん引自動車の高速自動車国道通行区分",
+        "category": ""
+    },
+    {
+        "filename": "rds_038.svg",
+        "name": "専用通行帯",
+        "category": ""
+    },
+    {
+        "filename": "rds_039.svg",
+        "name": "路線バス等優先通行帯",
+        "category": ""
+    },
+    {
+        "filename": "rds_040.svg",
+        "name": "けん引自動車の自動車専用道路第一通行帯通行指定区間",
+        "category": ""
+    },
+    {
+        "filename": "rds_041.svg",
+        "name": "進行方向別通行区分1",
+        "category": ""
+    },
+    {
+        "filename": "rds_042.svg",
+        "name": "進行方向別通行区分2",
+        "category": ""
+    },
+    {
+        "filename": "rds_043.svg",
+        "name": "進行方向別通行区分3",
+        "category": ""
+    },
+    {
+        "filename": "rds_044.svg",
+        "name": "進行方向別通行区分4",
+        "category": ""
+    },
+    {
+        "filename": "rds_045.svg",
+        "name": "原動機付自転車の右折方法（二段階）",
+        "category": ""
+    },
+    {
+        "filename": "rds_046.svg",
+        "name": "原動機付自転車の右折方法（小回り）",
+        "category": ""
+    },
+    {
+        "filename": "rds_047.svg",
+        "name": "警笛鳴らせ",
+        "category": ""
+    },
+    {
+        "filename": "rds_048.svg",
+        "name": "徐行",
+        "category": ""
+    },
+    {
+        "filename": "rds_049.svg",
+        "name": "一時停止",
+        "category": ""
+    },
+    {
+        "filename": "rds_050.svg",
+        "name": "歩行者通行止め",
+        "category": ""
+    },
+    {
+        "filename": "rds_051.svg",
+        "name": "歩行者横断禁止",
+        "category": ""
+    },
+    {
+        "filename": "rds_052.svg",
+        "name": "並進可",
+        "category": ""
+    },
+    {
+        "filename": "rds_053.svg",
+        "name": "軌道敷内通行可",
+        "category": ""
+    },
+    {
+        "filename": "rds_054.svg",
+        "name": "駐車可",
+        "category": ""
+    },
+    {
+        "filename": "rds_055.svg",
+        "name": "停車可",
+        "category": ""
+    },
+    {
+        "filename": "rds_056.svg",
+        "name": "優先道路",
+        "category": ""
+    },
+    {
+        "filename": "rds_057.svg",
+        "name": "中央線",
+        "category": ""
+    },
+    {
+        "filename": "rds_058.svg",
+        "name": "停止線",
+        "category": ""
+    },
+    {
+        "filename": "rds_059.svg",
+        "name": "横断歩道1",
+        "category": ""
+    },
+    {
+        "filename": "rds_060.svg",
+        "name": "横断歩道2",
+        "category": ""
+    },
+    {
+        "filename": "rds_061.svg",
+        "name": "自転車横断帯",
+        "category": ""
+    },
+    {
+        "filename": "rds_062.svg",
+        "name": "横断歩道・自転車横断帯",
+        "category": ""
+    },
+    {
+        "filename": "rds_063.svg",
+        "name": "安全地帯",
+        "category": ""
+    },
+    {
+        "filename": "rds_064.svg",
+        "name": "規制予告",
+        "category": ""
+    },
+    {
+        "filename": "rds_065.svg",
+        "name": "十字道路交差点あり",
+        "category": ""
+    },
+    {
+        "filename": "rds_066.svg",
+        "name": "ト形道路交差点あり",
+        "category": ""
+    },
+    {
+        "filename": "rds_067.svg",
+        "name": "逆ト形道路交差点あり",
+        "category": ""
+    },
+    {
+        "filename": "rds_068.svg",
+        "name": "T型道路交差点あり",
+        "category": ""
+    },
+    {
+        "filename": "rds_069.svg",
+        "name": "Y型道路交差点あり",
+        "category": ""
+    },
+    {
+        "filename": "rds_070.svg",
+        "name": "ロータリーあり",
+        "category": ""
+    },
+    {
+        "filename": "rds_071.svg",
+        "name": "右方屈曲あり",
+        "category": ""
+    },
+    {
+        "filename": "rds_072.svg",
+        "name": "左方屈曲あり",
+        "category": ""
+    },
+    {
+        "filename": "rds_073.svg",
+        "name": "右方屈折あり",
+        "category": ""
+    },
+    {
+        "filename": "rds_074.svg",
+        "name": "左方屈折あり",
+        "category": ""
+    },
+    {
+        "filename": "rds_075.svg",
+        "name": "右方背向屈曲あり",
+        "category": ""
+    },
+    {
+        "filename": "rds_076.svg",
+        "name": "左方背向屈曲あり",
+        "category": ""
+    },
+    {
+        "filename": "rds_077.svg",
+        "name": "右方背向屈折あり",
+        "category": ""
+    },
+    {
+        "filename": "rds_078.svg",
+        "name": "左方背向屈折あり",
+        "category": ""
+    },
+    {
+        "filename": "rds_079.svg",
+        "name": "右つづら折あり",
+        "category": ""
+    },
+    {
+        "filename": "rds_080.svg",
+        "name": "左つづら折あり",
+        "category": ""
+    },
+    {
+        "filename": "rds_081.svg",
+        "name": "踏切あり1",
+        "category": ""
+    },
+    {
+        "filename": "rds_082.svg",
+        "name": "踏切あり2",
+        "category": ""
+    },
+    {
+        "filename": "rds_083.svg",
+        "name": "学校、幼稚園、保育園などあり",
+        "category": ""
+    },
+    {
+        "filename": "rds_084.svg",
+        "name": "信号機あり",
+        "category": ""
+    },
+    {
+        "filename": "rds_085.svg",
+        "name": "すべりやすい",
+        "category": ""
+    },
+    {
+        "filename": "rds_086.svg",
+        "name": "落石のおそれあり",
+        "category": ""
+    },
+    {
+        "filename": "rds_087.svg",
+        "name": "路面に凹凸あり",
+        "category": ""
+    },
+    {
+        "filename": "rds_088.svg",
+        "name": "合流交通あり",
+        "category": ""
+    },
+    {
+        "filename": "rds_089.svg",
+        "name": "車線数減少",
+        "category": ""
+    },
+    {
+        "filename": "rds_090.svg",
+        "name": "幅員減少",
+        "category": ""
+    },
+    {
+        "filename": "rds_091.svg",
+        "name": "ニ方向通行",
+        "category": ""
+    },
+    {
+        "filename": "rds_092.svg",
+        "name": "上り急こう配あり",
+        "category": ""
+    },
+    {
+        "filename": "rds_093.svg",
+        "name": "下り急こう配あり",
+        "category": ""
+    },
+    {
+        "filename": "rds_094.svg",
+        "name": "道路工事中",
+        "category": ""
+    },
+    {
+        "filename": "rds_095.svg",
+        "name": "横風注意",
+        "category": ""
+    },
+    {
+        "filename": "rds_096.svg",
+        "name": "動物が飛び出すおそれあり",
+        "category": ""
+    },
+    {
+        "filename": "rds_097.svg",
+        "name": "その他の危険",
+        "category": ""
     }
 ]
