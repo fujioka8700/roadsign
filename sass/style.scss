@@ -26,7 +26,7 @@ section {
 
 .wrap {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     flex-wrap: wrap;
 }
 
@@ -48,4 +48,8 @@ section {
 
 img {
     width: 100%;
+}
+
+h2 {
+    text-align: center;
 }
