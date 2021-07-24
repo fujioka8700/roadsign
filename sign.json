@@ -15,8 +15,98 @@
         "category": "red-circle"
     },
     {
-        "filename": "rds_023.svg",
-        "name": "時間制限駐車区間",
-        "category": "blue-circle"
+        "filename": "rds_004.svg",
+        "name": "二輪の自動車以外の自動車通行止め",
+        "category": "red-circle"
+    },
+    {
+        "filename": "rds_005.svg",
+        "name": "大型貨物自動車等の通行止め",
+        "category": "red-circle"
+    },
+    {
+        "filename": "rds_006.svg",
+        "name": "大型乗用自動車通行止め",
+        "category": "red-circle"
+    },
+    {
+        "filename": "rds_007.svg",
+        "name": "二輪の自動車・原動機付き自転車通行止め",
+        "category": "red-circle"
+    },
+    {
+        "filename": "rds_008.svg",
+        "name": "大型自動二輪自動車および普通自動二輪車二人乗り通行禁止",
+        "category": "red-circle"
+    },
+    {
+        "filename": "rds_009.svg",
+        "name": "自転車以外の軽車両通行止め",
+        "category": "red-circle"
+    },
+    {
+        "filename": "rds_010.svg",
+        "name": "自転車通行止め",
+        "category": "red-circle"
+    },
+    {
+        "filename": "rds_011.svg",
+        "name": "車両（組合せ）通行止め",
+        "category": "red-circle"
+    },
+    {
+        "filename": "rds_012.svg",
+        "name": "指定方向外進行禁止1",
+        "category": "blue-circle_arrow"
+    },
+    {
+        "filename": "rds_013.svg",
+        "name": "指定方向外進行禁止2",
+        "category": "blue-circle_arrow"
+    },
+    {
+        "filename": "rds_014.svg",
+        "name": "指定方向外進行禁止3",
+        "category": "blue-circle_arrow"
+    },
+    {
+        "filename": "rds_015.svg",
+        "name": "指定方向外進行禁止4",
+        "category": "blue-circle_arrow"
+    },
+    {
+        "filename": "rds_016.svg",
+        "name": "指定方向外進行禁止5",
+        "category": "blue-circle_arrow"
+    },
+    {
+        "filename": "rds_017.svg",
+        "name": "指定方向外進行禁止6",
+        "category": "blue-circle_arrow"
+    },
+    {
+        "filename": "rds_018.svg",
+        "name": "車両横断禁止",
+        "category": "red-circle_arrow"
+    },
+    {
+        "filename": "rds_019.svg",
+        "name": "転回禁止",
+        "category": "red-circle_arrow"
+    },
+    {
+        "filename": "rds_020.svg",
+        "name": "追越しのための右側部分はみ出し通行禁止",
+        "category": "red-circle_arrow"
+    },
+    {
+        "filename": "rds_021.svg",
+        "name": "駐停車禁止",
+        "category": "red-circle"
+    },
+    {
+        "filename": "rds_022.svg",
+        "name": "駐車禁止",
+        "category": "red-circle"
     }
 ]
