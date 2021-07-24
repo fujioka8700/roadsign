@@ -20,7 +20,7 @@ function erasePreviousDisplay(lastParentSection) {
 
 // sign.json の情報から、div要素を作成
 function createDivElement(newImageElement, newContent, newElement, property, data) {
-    newImageElement.setAttribute('src', `../images/${data[property].filename}`);
+    newImageElement.setAttribute('src', `./images/${data[property].filename}`);
     newContent.textContent = data[property].name;
 
     newElement.appendChild(newImageElement);
