@@ -1,1 +1,2 @@
-# It is an application to check the road sign.
+# 道路標識一覧アプリ
+

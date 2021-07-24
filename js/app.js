@@ -45,7 +45,7 @@ function selectCategoryDisplay(newElement, newImageElement, newContent, property
 
 // sign.json から標識の情報を取得
 function getSignInformation() {
-    $.getJSON('../sign.json', (data) => {
+    $.getJSON('./sign.json', (data) => {
         for (const property in data) {
             let newElement = document.createElement("div");
             let newImageElement = document.createElement("img");
