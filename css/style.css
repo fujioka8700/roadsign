@@ -62,6 +62,23 @@ h2 {
   padding: 0;
 }
 
+.footer {
+  display: block;
+  background: #3aabee;
+  text-align: center;
+  margin: 1em 0 0 0;
+}
+
+.content-wrap {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.main-content_wrap {
+  flex-grow: 1;
+}
+
 /* select要素 */
 .cp_ipselect {
   overflow: hidden;
